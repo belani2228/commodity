@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include commodity *.css
+recursive-include commodity *.csv
+recursive-include commodity *.html
+recursive-include commodity *.ico
+recursive-include commodity *.js
+recursive-include commodity *.json
+recursive-include commodity *.md
+recursive-include commodity *.png
+recursive-include commodity *.py
+recursive-include commodity *.svg
+recursive-include commodity *.txt
+recursive-exclude commodity *.pyc
