@@ -14,6 +14,12 @@ commodity.egg-info/not-zip-safe
 commodity.egg-info/requires.txt
 commodity.egg-info/top_level.txt
 commodity/commodity/__init__.py
+commodity/commodity/doctype/__init__.py
+commodity/commodity/doctype/commodity/__init__.py
+commodity/commodity/doctype/commodity/commodity.js
+commodity/commodity/doctype/commodity/commodity.json
+commodity/commodity/doctype/commodity/commodity.py
+commodity/commodity/doctype/commodity/test_commodity.py
 commodity/config/__init__.py
 commodity/config/desktop.py
 commodity/config/docs.py
