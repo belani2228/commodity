@@ -20,6 +20,15 @@ commodity/commodity/doctype/commodity/commodity.js
 commodity/commodity/doctype/commodity/commodity.json
 commodity/commodity/doctype/commodity/commodity.py
 commodity/commodity/doctype/commodity/test_commodity.py
+commodity/commodity/report/__init__.py
+commodity/commodity/report/laporan_komoditas/__init__.py
+commodity/commodity/report/laporan_komoditas/laporan_komoditas.js
+commodity/commodity/report/laporan_komoditas/laporan_komoditas.json
+commodity/commodity/report/laporan_komoditas/laporan_komoditas.py
+commodity/commodity/report/laporan_komoditas_detail/__init__.py
+commodity/commodity/report/laporan_komoditas_detail/laporan_komoditas_detail.js
+commodity/commodity/report/laporan_komoditas_detail/laporan_komoditas_detail.json
+commodity/commodity/report/laporan_komoditas_detail/laporan_komoditas_detail.py
 commodity/config/__init__.py
 commodity/config/desktop.py
 commodity/config/docs.py
